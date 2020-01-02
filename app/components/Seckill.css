@@ -1,0 +1,78 @@
+.bgSpi {
+  background: url(../images/jd-sprites.png) no-repeat top left;
+  background-size: 2rem 2rem;
+}
+.time-left {
+  margin-top: 0.1rem;
+  overflow: hidden;
+  padding: 0 0.1rem;
+  background-color: #fff;
+  border-bottom: 1px solid #cccccc;
+}
+.time-left .clock {
+  float: left;
+  width: 0.18rem;
+  height: 0.2rem;
+  background: url(../images/jd-sprites.png) no-repeat top left;
+  background-size: 2rem 2rem;
+  background-position: -0.84rem -1.1rem;
+  margin-top: 0.08rem;
+}
+.time-left .hadle-time {
+  float: left;
+  white-space: nowrap;
+  display: inline-block;
+  font-size: 15px;
+  color: #ca1327;
+  margin: 10px 6px 0 5px;
+}
+.time-left .squre-time {
+  margin-top: 0.06rem;
+  float: left;
+  width: 0.2rem;
+  height: 0.2rem;
+  background-color: #000000;
+  color: #fff;
+  font-size: 0.14rem;
+  text-align: center;
+}
+.time-left .squre-dot {
+  margin-top: 0.06rem;
+  float: left;
+  font-size: 0.14rem;
+  text-align: center;
+  width: 0.1rem;
+}
+.time-left .more {
+  float: right;
+  font-size: 0.1rem;
+  margin-top: 0.1rem;
+  color: #333;
+}
+.goods ul {
+  overflow: hidden;
+  background-color: #fff;
+}
+.goods ul li {
+  float: left;
+  width: 33.33%;
+  text-align: center;
+}
+.goods ul li a {
+  display: inline-block;
+}
+.goods ul li a img {
+  width: 80%;
+}
+.goods ul li a p.p1 {
+  margin-top: 8px;
+  color: #ed5657;
+  font-size: 14px;
+  line-height: 14px;
+}
+.goods ul li a p.p2 {
+  margin-top: 8px;
+  font-size: 12px;
+  line-height: 12px;
+  text-decoration: line-through;
+}

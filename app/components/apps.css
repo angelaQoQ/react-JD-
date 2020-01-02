@@ -1,0 +1,21 @@
+.apps {
+  width: 100%;
+  overflow: hidden;
+}
+.apps ul li.imgItem {
+  box-sizing: border-box;
+  float: left;
+  width: 25%;
+  padding: 0.2rem;
+  padding-bottom: 0;
+}
+.apps ul li.imgItem a {
+  display: block;
+  text-decoration: none;
+  color: #ccc;
+  font-size: 0.1rem;
+  text-align: center;
+}
+.apps ul li.imgItem a img {
+  width: 80%;
+}

@@ -1,0 +1,20 @@
+.more ul {
+  overflow: hidden;
+}
+.more ul li {
+  float: left;
+  background-color: #fff;
+}
+.more ul li.t {
+  width: 33.33%;
+}
+.more ul li.b {
+  width: 50%;
+}
+.more ul li a {
+  display: block;
+}
+.more .swiper-container2 {
+  width: 100%;
+  background-color: #ccc;
+}
