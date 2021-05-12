@@ -34,7 +34,7 @@
     "react-dom": "15.0.1",
     "react-slick": "^0.25.2",
     "slick-carousel": "^1.8.1",
-    "swiper": "^5.2.1"
+    "swiper": "^6.5.1"
   },
   "devDependencies": {
     "babel-core": "6.7.7",
